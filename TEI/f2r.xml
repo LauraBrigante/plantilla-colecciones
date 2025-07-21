@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader> 
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="quijote_avellaneda">Fragmento del Quijote de Avellaneda</title>             
+                <author>Alonso Fernández de Avellaneda</author>
+                <editor resp="crítica">Florencio Sevilla Arroyo</editor>
+                <editor resp="digital">Gabriel Calarco</editor>  
+             </titleStmt>
+            <publicationStmt>
+                <publisher>Curso de edición digital, Competencias transversales para la digitalización del patrimonio textual</publisher>
+                <availability>
+                    <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <bibl>
+                <title>Segundo tomo del ingenioso hidalgo Don Quixote de la Mancha, que contiene su tercera salida : y es la quinta parte de sus aventuras</title>
+                <author>Alonso Fernández de Avellaneda</author>
+                <publisher>Casa de Felipe Roberto</publisher> 
+                <date>1614</date>
+                <pubPlace>Tarragona, España</pubPlace>
+                <objectIdentifier>   
+                    <institution>Biblioteca Nacional (España)</institution>
+                    <idno>sig. R/32541</idno>
+             
+                </objectIdentifier>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+        <text>
+            <body>
+<pb n="2r"/>
+
+
+<p><pb n="2r"/> que por él habían pasado. Ya no le llamaban <persName key="quijote">don Quijote</persName>, sino el señor Martín Quijada, que era su proprio nombre, aunque en ausencia suya tenían algunos ratos de pasatiempo con lo que dél se decía y de que se acordaron todos, como lo del rescatar o libertar los galeotes, lo de la penitencia que hizo en <placeName key="sierra morena">Sierra Morena</placeName> y todo lo demás que en las primeras partes de su historia se refiere.</p> 
+
+<p>Sucedió, pues, en este tiempo, que, dándole a su sobrina el mes de agosto una calentura de las que los físicos llaman efímeras, que son de veinte y cuatro horas, el accidente fue tal, que, dentro dese tiempo, la sobrina Madalena murió, quedando el buen hidalgo solo y desconsolado; pero el cura le dio una harto devota vieja y buena cristiana, para que la tuviese en casa, le guisase la comida, le hiciese la cama y acudiese a lo demás del servicio de su persona, y para que, finalmente, les diese aviso a él o al barbero de todo lo que <persName key="quijote">don Quijote</persName> hiciese o dijese dentro o fuera de casa, para ver si volvía a la necia porfía de su caballería andantesca.</p>
+
+<p>Sucedió, pues, en este tiempo, que un día de fiesta, después de comer, que hacía un calor excesivo, vino a visitarle <persName key="sancho">Sancho Panza</persName>; y, hallándole en su aposento leyendo en el Flos sanctorum, le dijo:</p> 
+<p>-¿Qué hace, señor Quijada? ¿Cómo va?</p>
+
+<p>-¡Oh Sancho! -dijo don Quijote-, seas bien venido; siéntate aquí un poco, que a fe que tenía harto deseo <pb n="2v"/>de hablar contigo.</p> 
+
+</body>
+</text>
+</TEI>
